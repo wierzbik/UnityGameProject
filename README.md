@@ -15,7 +15,7 @@ Repozytorium zawiera kod źródłowy stworzonej gry w środowisku Unity wraz z m
 ![image](https://user-images.githubusercontent.com/32534922/211103104-f97ef527-682b-41b0-85bf-548b79e7ba60.png)
 
 * Wybór poziomów:
-![image](https://user-images.githubusercontent.com/32534922/211103355-698ced0f-1154-4bee-91e9-d07eb3322167.png)
+![image](https://user-images.githubusercontent.com/32534922/211106704-96c8a68f-d977-43f3-8964-5b23bb121c1f.png)
 
 * Prezentacja poziomów: 
  
